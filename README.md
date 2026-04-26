@@ -165,7 +165,7 @@ node index.js
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **SuperCoder9000**
 
 ---
 
